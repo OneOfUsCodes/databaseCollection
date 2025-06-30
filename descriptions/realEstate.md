@@ -1,6 +1,6 @@
 # 🏠 Real Estate Sector Schema
 
-Structured schema for profiling companies in the luxury real estate market.
+A structured guide to profiling companies in the luxury real estate market.
 
 | **Field** | **Description** |
 |----------|-----------------|
