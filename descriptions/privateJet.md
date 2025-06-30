@@ -1,6 +1,6 @@
 # ✈️ Private Jet Sector Schema
 
-This schema outlines all relevant fields and definitions for profiling companies and service providers in the private aviation industry.
+A structured guide to profiling companies and service providers in the private aviation industry.
 
 | **Field** | **Description** |
 |----------|-----------------|
