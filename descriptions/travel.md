@@ -1,6 +1,6 @@
 # 🌍 Travel Sector Schema
 
-A structured schema for profiling high-end travel service providers and experience designers.
+A structured guide to profiling high-end travel service providers and experience designers.
 
 | **Field** | **Description** |
 |----------|-----------------|
@@ -50,14 +50,4 @@ A structured schema for profiling high-end travel service providers and experien
 | Contact 1 - Email | Email address. |
 | Contact 1 - Phone | Phone number. |
 | Contact 1 - Social | LinkedIn or equivalent. |
-| Contact 2 - Name | Second contact. |
-| Contact 2 - Title | Title or position. |
-| Contact 2 - Email | Email address. |
-| Contact 2 - Phone | Phone number. |
-| Contact 2 - Social | Social or LinkedIn profile. |
-| Contact 3 - Name | Third contact. |
-| Contact 3 - Title | Title or position. |
-| Contact 3 - Email | Email address. |
-| Contact 3 - Phone | Phone number. |
-| Contact 3 - Social | Social profile. |
 | Notes / Comments | Additional context or remarks. |
