@@ -57,7 +57,7 @@ Private submission via secure form or direct messaging will be available soon.
 ## 🗂️ Folder Structure
 
 ```
-/schemas/
+/database/
   private_jet.csv
   automotive.csv
   private_yacht.csv
