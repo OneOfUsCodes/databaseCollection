@@ -30,14 +30,4 @@ A structured guide to profiling companies in the luxury yachting industry.
 | Contact 1 - Email | Professional email. |
 | Contact 1 - Phone | Contact number. |
 | Contact 1 - Social | LinkedIn or similar profile. |
-| Contact 2 - Name | Secondary contact name. |
-| Contact 2 - Title | Title or role. |
-| Contact 2 - Email | Email address. |
-| Contact 2 - Phone | Phone number. |
-| Contact 2 - Social | LinkedIn or relevant profile. |
-| Contact 3 - Name | Third contact name. |
-| Contact 3 - Title | Title or role. |
-| Contact 3 - Email | Email address. |
-| Contact 3 - Phone | Phone number. |
-| Contact 3 - Social | Social or LinkedIn profile. |
 | Notes / Comments | Additional notes or insights. |
