@@ -29,14 +29,4 @@ A structured guide to profiling companies in the luxury real estate market.
 | Contact 1 - Email | Professional email. |
 | Contact 1 - Phone | Phone number. |
 | Contact 1 - Social | LinkedIn or relevant profile. |
-| Contact 2 - Name | Secondary contact. |
-| Contact 2 - Title | Job title. |
-| Contact 2 - Email | Email address. |
-| Contact 2 - Phone | Phone number. |
-| Contact 2 - Social | Social or LinkedIn profile. |
-| Contact 3 - Name | Third contact. |
-| Contact 3 - Title | Job title. |
-| Contact 3 - Email | Email address. |
-| Contact 3 - Phone | Phone number. |
-| Contact 3 - Social | Social media or LinkedIn. |
 | Notes / Comments | Additional remarks or background. |
