@@ -58,17 +58,17 @@ Private submission via secure form or direct messaging will be available soon.
 
 ```
 /database/
-  private_jet.csv
+  privateJet.csv
   automotive.csv
-  private_yacht.csv
-  real_estate.csv
+  privateYacht.csv
+  realEstate.csv
   travel.csv
 
 /descriptions/
-  private_jet.md
+  privateJet.md
   automotive.md
-  private_yacht.md
-  real_estate.md
+  privateYacht.md
+  realEstate.md
   travel.md
 
 README.md
