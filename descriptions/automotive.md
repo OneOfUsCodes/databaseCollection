@@ -1,6 +1,6 @@
 # 🚗 Automotive Sector Schema
 
-This schema defines all relevant fields for profiling companies operating in the premium and high-performance automotive industry.
+A structured guide to profiling companies operating in the premium and high-performance automotive industry.
 
 | **Field** | **Description** |
 |----------|-----------------|
