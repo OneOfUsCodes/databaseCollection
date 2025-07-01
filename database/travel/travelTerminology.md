@@ -1,4 +1,4 @@
-# 🌍 Travel Sector Schema
+# 🌍 Travel Sector Terminology
 
 A structured guide to profiling high-end travel service providers and experience designers.
 
