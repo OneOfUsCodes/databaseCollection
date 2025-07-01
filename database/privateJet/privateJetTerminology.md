@@ -1,4 +1,4 @@
-# ✈️ Private Jet Sector Schema
+# ✈️ Private Jet Sector Terminology
 
 A structured guide to profiling companies and service providers in the private aviation industry.
 
