@@ -23,7 +23,6 @@
 - Business Description:
 - Languages Spoken:
 - LinkedIn Page (Company):
-- CRM Status:
 - Company Type:
 - Core Services Offered:
 - Vehicle Type Specialization:
@@ -56,6 +55,7 @@
 - Email:
 - Phone:
 - Social:
+
 
 - Notes / Comments:
 
