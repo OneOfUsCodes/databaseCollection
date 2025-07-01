@@ -1,4 +1,4 @@
-# 🛥️ Private Yacht Sector Schema
+# 🛥️ Private Yacht Sector Terminology
 
 A structured guide to profiling companies in the luxury yachting industry.
 
