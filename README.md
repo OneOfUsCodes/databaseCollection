@@ -10,7 +10,9 @@ A structured database designed for profiling premium service providers across fi
 
 Built to support trusted relationships—not just transactions.
 
+
 ---
+
 
 ## 🎯 Purpose
 
@@ -23,7 +25,9 @@ This repository serves as a reference and submission tool for:
 * Vendor discovery across key global industries
 * And more
 
+
 ---
+
 
 ## 🏢 Included Sectors
 
@@ -33,49 +37,98 @@ This repository serves as a reference and submission tool for:
 * **Real Estate** – Luxury developers, estate brokers, property management and design studios
 * **Travel** – DMCs, bespoke travel designers, experience curators, hospitality groups
 
+
 ---
+
 
 ## 📋 Submit Your Profile
 
 Do you own or represent a company or service within one of these sectors?
 We invite you to contribute and help build a high-integrity database of exceptional providers.
 
+🛠 **Important:** Do not rename columns unless updating all matching documentation and logic.
+
+
 ### 🌐 Public Submission *(your data will be publicly visible)*
 
-1. Fork this repository
-2. Add your company details to the relevant `.csv` file inside the `/schemas/` folder
-3. Submit a pull request
+### Option 1: Edit CSV Files
+1. **Fork this repository**  
+2. **Navigate to** `/database/<sector>/<region>.csv`  
+3. **Add your company details** in the appropriate row  
+4. **Submit a pull request**
+
+Each `.csv` file represents **one region** within its sector.  
+All files follow a consistent format for easy editing, comparison, and integration.
+
+✅ Example: `/database/privateJet/northAmerica.csv`  
+✅ Example: `/database/realEstate/asia.csv`
+
+
+### Option 2: Edit XLSX File
+
+1. Download the `.xlsx` file for your sector: `/database/<sector>/<sector>.xlsx`  
+2. Open it in Excel, Google Sheets, or Numbers  
+3. Add your entry under the correct tab/region  
+4. Submit the updated file via pull request **or** send privately (see below)
+
+✅ Example: `/database/travel/travel.xlsx`  
+✅ Example: `/database/automotive/automotive.xlsx`
 
 > ⚠️ Please **do not include personal emails or phone numbers** unless you're comfortable having them publicly visible.
+
+
+📘 **Need help with field definitions?**  
+Each sector includes a `Terminology.md` file (e.g. `automotiveTerminology.md`) describing every field in plain language.
+
 
 ### 🔒 Private Submission *(data will remain confidential)*
 
 Private submission via secure form or direct messaging will be available soon.
 
+
 ---
+
 
 ## 🗂️ Folder Structure
 
 ```
 /database/
-  privateJet.csv
-  automotive.csv
-  privateYacht.csv
-  realEstate.csv
-  travel.csv
+  /<sector>/
+    <region>.csv             # Region-specific company entries
+    <sector>.xlsx            # Source spreadsheet (master format)
+    <sector>Terminology.md   # Field definitions and descriptions
 
-/descriptions/
-  privateJet.md
-  automotive.md
-  privateYacht.md
-  realEstate.md
-  travel.md
-
-README.md
-LICENSE
+/LICENSE
+/README.md
 ```
 
+
+## 🌍 Supported Sectors & Regions
+
+Each sector folder contains the following files:
+
+### Example:
+`/database/automotive/`
+
+- `northAmerica.csv`
+- `southAmerica.csv`
+- `europe.csv`
+- `africa.csv`
+- `asia.csv`
+- `australia.csv`
+- `automotive.xlsx` — Master spreadsheet
+- `automotiveTerminology.md` — Field definitions for editors
+
+This same structure is used for:
+- `automotive/`
+- `privateJet/`
+- `privateYacht/`
+- `realEstate/`
+- `travel/`
+
+
 ---
+
 
 ## 📄 License
 
@@ -93,7 +146,9 @@ You are free to:
 
 Refer to the full [`LICENSE`](./LICENSE) file for complete terms.
 
+
 ---
+
 
 ## 📬 Contact
 
