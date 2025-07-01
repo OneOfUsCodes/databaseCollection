@@ -1,4 +1,4 @@
-# 🏠 Real Estate Sector Schema
+# 🏠 Real Estate Sector Terminology
 
 A structured guide to profiling companies in the luxury real estate market.
 
