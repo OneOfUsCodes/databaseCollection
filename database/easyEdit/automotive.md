@@ -12,10 +12,52 @@
 
 ## North America
 
-| Company Name  | Website | Headquarters | Full Address  | Operational Territories | Key Regions of Operation  | Years in Operation | Business Description  | Languages Spoken | LinkedIn Page (Company)  | CRM Status  | Company Type | Core Services Offered  | Vehicle Type Specialization | Body Style Specialization | OEM Partnerships | Key Brands Specialized In | Inventory Scope / Vehicle Classes | Certifications / Affiliations | Infrastructure / Facility Capabilities | In-House Capabilities | Homologation Experience | Contact 1 - Name | Contact 1 - Title | Contact 1 - Email | Contact 1 - Phone | Contact 1 - Social | Contact 2 - Name | Contact 2 - Title | Contact 2 - Email | Contact 2 - Phone | Contact 2 - Social | Contact 3 - Name | Contact 3 - Title | Contact 3 - Email | Contact 3 - Phone | Contact 3 - Social | Notes / Comments |
-|---------------|---------|--------------|---------------|-------------------------|---------------------------|--------------------|-----------------------|------------------|--------------------------|-------------|--------------|------------------------|-----------------------------|---------------------------|------------------|---------------------------|-----------------------------------|-------------------------------|----------------------------------------|-----------------------|-------------------------|------------------|-------------------|-------------------|-------------------|--------------------|------------------|-------------------|-------------------|-------------------|--------------------|------------------|-------------------|-------------------|-------------------|--------------------|------------------|------------------|
-|               |         |              |               |                         |                           |                    |                       |                  |                          |             |              |                        |                             |                           |                  |                           |                                   |                               |                                        |                       |                         |                  |                   |                   |                   |                    |                  |                   |                   |                   |                    |                  |                   |                   |                   |                    |                  |                  |
+### Company: [Company Name]
 
+- Website:
+- Headquarters:
+- Full Address:
+- Operational Territories:
+- Key Regions of Operation:
+- Years in Operation:
+- Business Description:
+- Languages Spoken:
+- LinkedIn Page (Company):
+- CRM Status:
+- Company Type:
+- Core Services Offered:
+- Vehicle Type Specialization:
+- Body Style Specialization:
+- OEM Partnerships:
+- Key Brands Specialized In:
+- Inventory Scope / Vehicle Classes:
+- Certifications / Affiliations:
+- Infrastructure / Facility Capabilities:
+- In-House Capabilities:
+- Homologation Experience:
+
+#### Contact 1
+- Name:
+- Title:
+- Email:
+- Phone:
+- Social:
+
+#### Contact 2
+- Name:
+- Title:
+- Email:
+- Phone:
+- Social:
+
+#### Contact 3
+- Name:
+- Title:
+- Email:
+- Phone:
+- Social:
+
+- Notes / Comments:
 
 
 ---
