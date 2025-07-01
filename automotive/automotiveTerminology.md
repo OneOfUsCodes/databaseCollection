@@ -1,4 +1,4 @@
-# 🚗 Automotive Sector Schema
+# 🚗 Automotive Sector Terminology
 
 A structured guide to profiling companies operating in the premium and high-performance automotive industry.
 
